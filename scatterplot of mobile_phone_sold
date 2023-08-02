@@ -4,13 +4,3 @@ money=c(12,5,13,19,31,7,153,72,275,110)
 
 #scatterplot 
 scatter.smooth(mobile_phone_sold)
-
-
-#day1_10
-speed=c(78.3,81.8,82,74.2,83.4,84.5,82.9,77.5,80.9,70.6)
-
-#IQR
-IQR(speed) 
-
-#sd
-sd(speed)
