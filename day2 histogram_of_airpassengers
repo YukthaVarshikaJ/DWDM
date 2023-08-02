@@ -1,0 +1,7 @@
+#day2_5
+#histogram_of_air_passengers
+hist(AirPassengers,
+main="Histogram for air passengers",
+xlab="passengers",border="red",col="green",
+breaks=c(100,seq(200,700,150))
+)
